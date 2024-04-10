@@ -47,11 +47,3 @@ Performance: Optimize app performance to ensure fast loading times and smooth op
 
 
 
-<h2>Video:-</h2>
-
-
-
-https://github.com/aryansabhani/quote_app/assets/112259316/c8a3c444-549d-493b-8b6b-1063c6d4ff6b
-
-
-</header>
