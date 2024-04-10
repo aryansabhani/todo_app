@@ -35,19 +35,15 @@ Performance: Optimize app performance to ensure fast loading times and smooth op
 
  <h2>Screenshot:-</h2>
 
- ![image]()
- ![image]()
- ![image]()
- ![image]()
-
-
-
 
 <img src="https://github.com/aryansabhani/todo_app/assets/112259316/0914be0b-42b3-44c6-9c44-06f650a7a7ff"  height="400">
 <img src="https://github.com/aryansabhani/todo_app/assets/112259316/83212f91-4ddc-4b7a-b6fe-8f372a68201b" height="400">
 <img src="https://github.com/aryansabhani/todo_app/assets/112259316/2393b6a6-abc3-4b17-9f09-4f336c23b211"  height="400">
 <img src="https://github.com/aryansabhani/todo_app/assets/112259316/0be94bae-40cb-417e-bd5f-fe049e30e683"  height="400">
-<img src="https://github.com/aryansabhani/todo_app/assets/112259316/0be94bae-40cb-417e-bd5f-fe049e30e683"  height="400">
+<img src="https://github.com/aryansabhani/todo_app/assets/112259316/8fa6f5e0-b71c-439b-947d-81f23e4d513d"  height="400">
+<img src="https://github.com/aryansabhani/todo_app/assets/112259316/b1689d87-65ef-4faf-8724-d8ba5391aa29"  height="400">
+<img src="https://github.com/aryansabhani/todo_app/assets/112259316/fc5975aa-6d59-44aa-9e87-e8652b516c54"  height="400">
+<img src="https://github.com/aryansabhani/todo_app/assets/112259316/0bae474a-c443-40e8-b98c-976d0591923a"  height="400">
 
 
 
